@@ -1,0 +1,1 @@
+issue can be reproduced with `bazel run //:example` with issue `ModuleNotFoundError: No module named 'rerun'`
